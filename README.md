@@ -1,2 +1,3 @@
-# Java-Matrics
+# Java Language
+
 Learn basic Java language during matriculation 
